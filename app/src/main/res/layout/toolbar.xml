@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/darkblue"
+    android:paddingLeft="30dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="25dp"
+        android:src="@drawable/ic_keyboard_arrow_left_black_24dp"
+        android:layout_height="25dp" />
+</LinearLayout>
